@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="act1">Activity 1</string>
+    <string name="no1">Number 1</string>
+    <string name="no2">Number 2</string>
+    <string name="btnOK">OK</string>
+    <string name="act2">Activity 2</string>
+    <string name="cal">Calculator</string>
+    <string name="plus">+</string>
+    <string name="Sub">-</string>
+    <string name="multiple">*</string>
+    <string name="Division">/</string>
+</resources>
